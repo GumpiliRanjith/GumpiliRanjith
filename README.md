@@ -1,34 +1,12 @@
-# Hi 👋 I'm Ranjith
+--------------------------------------------------------
+                 RANJITH
 
-🚀 Java Developer
-☁️ DevOps Learner
-🐍 Python Programmer
+Java Developer | DevOps Engineer | Python Programmer
 
-## Skills
-
-- Java
-- Python
-- Linux
-- Docker
-- Kubernetes
-- AWS
-
-## Projects
-
-- Java OOP
-- DevOps Monitoring
-- Shell Scripts
-
+Linux • Docker • Kubernetes • AWS • CI/CD
+--------------------------------------------------------
 ![Java](images/image.png)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-</p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -39,4 +17,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;DevOps+Engineer;Python+Developer;Linux+Enthusiast;Always+Learning..." />
 </p>
+
+## 🚀 Featured Projects
+
+### Java OOP Library Management System
+Object-Oriented Java project demonstrating encapsulation, inheritance, polymorphism, and interfaces.
+
+### Linux Monitoring Scripts
+Shell scripts to monitor CPU, memory, disk usage, and running services.
+
+### Docker + Nginx Deployment
+Containerized web application with Docker.
+
+### Kubernetes Deployment
+Deploy a Java application using Kubernetes manifests.
+
+### AWS CI/CD Pipeline
+GitHub Actions → Docker → AWS EC2 deployment.
+
+LinkedIn - https://www.linkedin.com/in/ranjithgumpili
+Email    - ranjithgumpilli@gmail.com
+Portfolio  - 
 
