@@ -5,8 +5,6 @@ Java Developer | DevOps Engineer | Python Programmer
 
 Linux • Docker • Kubernetes • AWS • CI/CD
 --------------------------------------------------------
-![Java](images/image.png)
-
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
