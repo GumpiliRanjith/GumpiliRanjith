@@ -34,6 +34,7 @@ Deploy a Java application using Kubernetes manifests.
 GitHub Actions → Docker → AWS EC2 deployment.
 
 LinkedIn - https://www.linkedin.com/in/ranjithgumpili
+<br>
 Email    - ranjithgumpilli@gmail.com
 Portfolio  - 
 
