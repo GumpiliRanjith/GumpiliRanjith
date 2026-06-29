@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Replace the src link below with the link to your top banner image -->
-  <img src="YOUR_TOP_BANNER_IMAGE_URL.png" alt="Header Banner" width="100%">
+  <img src="images/bannner.jpeg.png" alt="Header Banner" width="100%">
 
   <br><br>
 
@@ -16,8 +16,8 @@
   <p><em>Turning DevOps Complexity into Developer Simplicity</em></p>
 
   <p>
-    <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="www.linkedin.com/in/ranjithgumpili"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/GumpiliRanjith"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="YOUR_BLOG"><img src="https://img.shields.io/badge/Blog-F9AA11?logo=hashnode&logoColor=white" alt="Blog" /></a>
     <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -34,8 +34,8 @@
 
 <div align="center">
   <!-- Replace the src link below with the link to your Tech Stack banner image -->
-  <img src="YOUR_TECH_STACK_BANNER_URL.png" alt="Tech Stack Banner" width="100%">
-  
+  <img src="images/project.png" alt="Tech Stack Banner" width="100%">
+   
   <br><br>
   
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS">
@@ -63,7 +63,7 @@
 
 <div align="center">
   <!-- Replace the src link below with the link to your Projects banner image -->
-  <img src="YOUR_PROJECTS_BANNER_URL.png" alt="Featured Projects Banner" width="100%">
+  <img src="images/featureprojects.png" alt="Featured Projects Banner" width="100%">
 </div>
 
 ### 🔧 DevOps & Infrastructure
@@ -103,7 +103,7 @@
 
 <div align="center">
   <!-- Replace the src link below with the link to your Learning Hub banner image -->
-  <img src="YOUR_LEARNING_HUB_BANNER_URL.png" alt="Learning Hub Banner" width="100%">
+  <img src="images/empoweringdev.png" alt="Learning Hub Banner" width="100%">
   <br><br>
 </div>
 
