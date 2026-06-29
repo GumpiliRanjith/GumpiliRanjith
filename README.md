@@ -1,4 +1,4 @@
-<img src="images/banner.jpeg" width="100%">
+<img src="images/bannner.jpeg" width="100%">
 --------------------------------------------------------
                  RANJITH
 
