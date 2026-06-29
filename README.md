@@ -1,11 +1,13 @@
 <img src="images/bannner.jpeg" width="100%">
---------------------------------------------------------
-                 RANJITH
-
-Java Developer | DevOps Engineer | Python Programmer
-
-Linux • Docker • Kubernetes • AWS • CI/CD
---------------------------------------------------------
+                                 RANJITH
+            Java Developer | DevOps Engineer | Python Programmer
+              Linux • Docker • Kubernetes • AWS • CI/CD
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjithgumpili)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/GumpiliRanjith)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/Blog-F9AA11?logo=hashnode&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)
+                       I build scalable cloud infrastructures,automate pipelines
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
