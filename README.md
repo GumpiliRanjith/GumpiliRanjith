@@ -67,7 +67,7 @@
 </div>
 
 ### 🔧 DevOps & Infrastructure
-
+|      BEGINNER         |
 | Project | Description |
 |---------|-------------|
 | [DevOps Real-Time Projects](#) | Real-world projects, beginner → advanced |
@@ -81,23 +81,13 @@
 | [Azure DevOps Guide](#) | All-in-one Azure DevOps reference |
 | [AWS DevOps Real-Time Deployment](#) | Production-grade AWS deployment patterns |
 
-### 🤖 MLOps & AI Infrastructure
-
+|     ADVANCE           |
 | Project | Description |
 |---------|-------------|
 | [AI Platform Engineering Handbook](#) | Production-grade AI infra design, MLOps & cloud-native architecture |
 | [MLOps Project Generator](#) | CLI & UI to scaffold production-ready MLOps projects |
 | [DevOps Project Generator](#) | CLI & UI for production-ready DevOps repo scaffolding |
 
-### 🏗️ Platform Engineering & IDP
-
-| Project | Description |
-|---------|-------------|
-| [DevOps Tools Collection](#) | Comprehensive IDP, monitoring, security & DevOps tool reference |
-| [DevOps Monitoring in a Box](#) | Ready-to-use Prometheus · Grafana · Loki · Alertmanager stack |
-| [Kubernetes (Master Reference)](#) | Deployments to advanced real-time K8s applications |
-
----
 
 ## 🌐 Learning Hub
 
