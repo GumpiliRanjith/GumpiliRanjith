@@ -18,7 +18,8 @@ Linux • Docker • Kubernetes • AWS • CI/CD
 </p>
 
 ## 🚀 Featured Projects
-| [Java OOP](https://github.com/GumpiliRanjith/java-oop) | Learn Java OOP |
+| [Java OOP](https://github.com/GumpiliRanjith/) | Learn Java OOP |
+<br>
 | [GIT PAGES](https://gumpiliranjith.github.io/ROADMAP_PROJECTS/)|Learn Git Deplovement|
 
 LinkedIn - https://www.linkedin.com/in/ranjithgumpili
