@@ -148,7 +148,7 @@
   </a>
 </div>
 
-##🔗 Linkedin Stats
+## 🔗 Linkedin Stats
 <div align="center">
   <a href="https://leetcode.com/u/Ranjith_code/">
     <img src="https://leetcard.jacoblin.cool/Ranjith_code?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
