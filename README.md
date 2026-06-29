@@ -68,7 +68,7 @@
 
 ### 🔧 DevOps & Infrastructure
 |      BASIC            |
-|-----------------------|
+|----------|-------------|
 | Project | Description |
 |---------|-------------|
 | [DevOps Real-Time Projects](#) | Real-world projects, beginner → advanced |
@@ -83,7 +83,7 @@
 | [AWS DevOps Real-Time Deployment](#) | Production-grade AWS deployment patterns |
 
 |      ADVANCE          |
-|-----------------------|
+|----------|-------------|
 | Project | Description |
 |---------|-------------|
 | [AI Platform Engineering Handbook](#) | Production-grade AI infra design, MLOps & cloud-native architecture |
