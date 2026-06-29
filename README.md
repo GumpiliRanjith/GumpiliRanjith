@@ -18,9 +18,20 @@ Linux • Docker • Kubernetes • AWS • CI/CD
 </p>
 
 ## 🚀 Featured Projects
-| [Java OOP](https://github.com/GumpiliRanjith/) | Learn Java OOP |
-<br>
-| [GIT PAGES](https://gumpiliranjith.github.io/ROADMAP_PROJECTS/)|Learn Git Deplovement|
+## ☕ Java
+
+| Project | Description |
+|---------|-------------|
+| [Java OOP](https://github.com/GumpiliRanjith/java-oop) | Learn Java OOP |
+| [Java Collections](https://github.com/GumpiliRanjith/java-collections) | Master Java Collections Framework |
+| [Java Multithreading](https://github.com/GumpiliRanjith/java-multithreading) | Concurrency and Threads |
+
+## 🌐 Web
+
+| Project | Description |
+|---------|-------------|
+| [GitHub Pages](https://github.com/GumpiliRanjith/github-pages-portfolio) | Learn GitHub Pages deployment |
+| [Portfolio Website](https://github.com/GumpiliRanjith/portfolio) | Personal developer portfolio |
 
 LinkedIn - https://www.linkedin.com/in/ranjithgumpili
 <br>
