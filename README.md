@@ -142,6 +142,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=GumpiliRanjith&theme=vision-friendly-dark&hide_border=true&background=5A189A,0000FF&ring=39FF14&fire=E6E600&currStreakNum=FFFFFF%22%20alt=%22GitHub%20Streak" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
   <p>🌟 <b>5,000+</b> Stars · 🍴 <b>1,000+</b> Forks · 👨‍💻 <b>50+</b> Contributors · 📚 <b>900+</b> Resources</p>
-  <p><b>Like my work? Support it.</b></p>
+
 </div>
