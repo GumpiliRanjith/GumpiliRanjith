@@ -18,21 +18,8 @@ Linux • Docker • Kubernetes • AWS • CI/CD
 </p>
 
 ## 🚀 Featured Projects
-
-### Java OOP Library Management System
-Object-Oriented Java project demonstrating encapsulation, inheritance, polymorphism, and interfaces.
-
-### Linux Monitoring Scripts
-Shell scripts to monitor CPU, memory, disk usage, and running services.
-
-### Docker + Nginx Deployment
-Containerized web application with Docker.
-
-### Kubernetes Deployment
-Deploy a Java application using Kubernetes manifests.
-
-### AWS CI/CD Pipeline
-GitHub Actions → Docker → AWS EC2 deployment.
+| [Java OOP](https://github.com/GumpiliRanjith/java-oop) | Learn Java OOP |
+| [GIT PAGES](https://gumpiliranjith.github.io/ROADMAP_PROJECTS/)|Learn Git Deplovement|
 
 LinkedIn - https://www.linkedin.com/in/ranjithgumpili
 <br>
