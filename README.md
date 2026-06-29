@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Replace the src link below with the link to your top banner image -->
-  <img src="images/bannner.jpeg.png" alt="Header Banner" width="100%">
+  <img src="images/bannner.jpeg" alt="Header Banner" width="100%">
 
   <br><br>
 
