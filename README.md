@@ -67,29 +67,43 @@
 </div>
 
 ### 🔧 DevOps & Infrastructure
-|      BASIC            |
-|----------|-------------|
-| Project | Description |
-|---------|-------------|
-| [DevOps Real-Time Projects](#) | Real-world projects, beginner → advanced |
-| [AWS Real-Time Projects](#) | Real-world projects, beginner → advanced |
-| [Into the DevOps](#) | Linux, K8s, AWS, Jenkins, Ansible & more — interview Q&A |
-| [Kubernetes Learning Path](#) | Structured K8s + CKA prep |
-| [CI/CD Pipeline for AWS EKS](#) | GitHub Actions + EKS end-to-end |
-| [DevOps Tool Installer](#) | One-shot DevOps tool setup automation |
-| [DevOps Cheatsheet](#) | Quick-reference for tools & practices |
-| [DevOps Setup & Installations](#) | Install guides for DevOps & DevSecOps tools |
-| [Azure DevOps Guide](#) | All-in-one Azure DevOps reference |
-| [AWS DevOps Real-Time Deployment](#) | Production-grade AWS deployment patterns |
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="center">BEGINNER</th>
+    </tr>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">DevOps Real-Time Projects</a></td>
+      <td>Real-world projects, beginner → advanced</td>
+    </tr>
+    <!-- Add more rows here -->
+  </tbody>
+</table>|
 
-|      ADVANCE          |
-|----------|-------------|
-| Project | Description |
-|---------|-------------|
-| [AI Platform Engineering Handbook](#) | Production-grade AI infra design, MLOps & cloud-native architecture |
-| [MLOps Project Generator](#) | CLI & UI to scaffold production-ready MLOps projects |
-| [DevOps Project Generator](#) | CLI & UI for production-ready DevOps repo scaffolding |
-
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="center">ADVANCE</th>
+    </tr>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">DevOps Real-Time Projects</a></td>
+      <td>Real-world projects, beginner → advanced</td>
+    </tr>
+    <!-- Add more rows here -->
+  </tbody>
+</table>
 
 ## 🌐 Learning Hub
 
