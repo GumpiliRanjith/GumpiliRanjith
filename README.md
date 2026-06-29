@@ -86,6 +86,12 @@
      <td><a href="https://gumpiliranjith.github.io/GITPAGES_dep/">DEPLOYMENT</a></td>
       <td>Using Git-pages to deployment</td>
     </tr>
+    <tr>
+    <tr>
+    <td><a href="https://yourdomain.com">AWS EC2 Static Website</a></td>
+    <td>Hosted a static website on AWS EC2 with Ubuntu, Nginx, Route 53, HTTPS (Let's Encrypt), and automated deployment using CodePipeline.</td>
+</tr>
+    </tr>
   </tbody>
 </table>
 
