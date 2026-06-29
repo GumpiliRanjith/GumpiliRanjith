@@ -1,51 +1,130 @@
-<img src="images/bannner.jpeg" width="100%">
-                                 RANJITH
-            Java Developer | DevOps Engineer | Python Programmer
-              Linux • Docker • Kubernetes • AWS • CI/CD
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ranjithgumpili)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)(https://github.com/GumpiliRanjith)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)(#)
-![Blog](https://img.shields.io/badge/Blog-F9AA11?logo=hashnode&logoColor=white)(#)
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)(#)
-                       I build scalable cloud infrastructures,automate pipelines
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  <!-- Replace the src link below with the link to your top banner image -->
+  <img src="YOUR_TOP_BANNER_IMAGE_URL.png" alt="Header Banner" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <br><br>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <h1>R A N J I T H</h1>
+  
+  <p><b>Development Platform, Automation & MLOps Enthusiast</b></p>
+  
+  <p>
+    <code>DevOps</code> · <code>MLOps</code> · <code>IDP</code> · <code>AI Infrastructure</code> · <code>Platform Engineering</code>
+  </p>
+  
+  <p><em>Turning DevOps Complexity into Developer Simplicity</em></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;DevOps+Engineer;Python+Developer;Linux+Enthusiast;Always+Learning..." />
-</p>
+  <p>
+    <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="YOUR_BLOG"><img src="https://img.shields.io/badge/Blog-F9AA11?logo=hashnode&logoColor=white" alt="Blog" /></a>
+    <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <img src="https://img.shields.io/badge/Top%20Committer-India-FF5722?logo=github&logoColor=white&labelColor=555555" alt="Top Committer India" />
+  </p>
 
-## 🚀 Featured Projects
-## ☕ Java
+  <p><i>I build scalable cloud infrastructures, automate ML pipelines, and create Internal Developer Platforms that help engineering teams move faster. I publish open-source DevOps & MLOps tooling and create technical content for the community.</i></p>
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+  <!-- Replace the src link below with the link to your Tech Stack banner image -->
+  <img src="YOUR_TECH_STACK_BANNER_URL.png" alt="Tech Stack Banner" width="100%">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white" alt="GitLab CI">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white" alt="ArgoCD">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+  <!-- Replace the src link below with the link to your Projects banner image -->
+  <img src="YOUR_PROJECTS_BANNER_URL.png" alt="Featured Projects Banner" width="100%">
+</div>
+
+### 🔧 DevOps & Infrastructure
 
 | Project | Description |
 |---------|-------------|
-| [Java OOP](https://github.com/GumpiliRanjith/java-oop) | Learn Java OOP |
-| [Java Collections](https://github.com/GumpiliRanjith/java-collections) | Master Java Collections Framework |
-| [Java Multithreading](https://github.com/GumpiliRanjith/java-multithreading) | Concurrency and Threads |
+| [DevOps Real-Time Projects](#) | Real-world projects, beginner → advanced |
+| [AWS Real-Time Projects](#) | Real-world projects, beginner → advanced |
+| [Into the DevOps](#) | Linux, K8s, AWS, Jenkins, Ansible & more — interview Q&A |
+| [Kubernetes Learning Path](#) | Structured K8s + CKA prep |
+| [CI/CD Pipeline for AWS EKS](#) | GitHub Actions + EKS end-to-end |
+| [DevOps Tool Installer](#) | One-shot DevOps tool setup automation |
+| [DevOps Cheatsheet](#) | Quick-reference for tools & practices |
+| [DevOps Setup & Installations](#) | Install guides for DevOps & DevSecOps tools |
+| [Azure DevOps Guide](#) | All-in-one Azure DevOps reference |
+| [AWS DevOps Real-Time Deployment](#) | Production-grade AWS deployment patterns |
 
-## 🌐 Web
+### 🤖 MLOps & AI Infrastructure
 
 | Project | Description |
 |---------|-------------|
-| [GitHub Pages](https://github.com/GumpiliRanjith/github-pages-portfolio) | Learn GitHub Pages deployment |
-| [Portfolio Website](https://github.com/GumpiliRanjith/portfolio) | Personal developer portfolio |
+| [AI Platform Engineering Handbook](#) | Production-grade AI infra design, MLOps & cloud-native architecture |
+| [MLOps Project Generator](#) | CLI & UI to scaffold production-ready MLOps projects |
+| [DevOps Project Generator](#) | CLI & UI for production-ready DevOps repo scaffolding |
 
-🌐 Learning Hub
-<img src="images/bannner.jpeg" width="100%">
-|Resource|           |
-|--------|-----------|
-|[Docs portal](https://docs.prodevopsguytech.com/)|900+ curated learning|
-|[Projects Hub](https://projects.prodevopsguytech.com/)|Real-world hands-on project|
-|[K8s Learning](https://dockertokubernetes.live/lander?oref=https%3A%2F%2Fgithub.com%2F)|Learn about kubernetes|
+### 🏗️ Platform Engineering & IDP
 
-LinkedIn - https://www.linkedin.com/in/ranjithgumpili
-<br>
-Email    - ranjithgumpilli@gmail.com
-<br>
-Portfolio  - 
+| Project | Description |
+|---------|-------------|
+| [DevOps Tools Collection](#) | Comprehensive IDP, monitoring, security & DevOps tool reference |
+| [DevOps Monitoring in a Box](#) | Ready-to-use Prometheus · Grafana · Loki · Alertmanager stack |
+| [Kubernetes (Master Reference)](#) | Deployments to advanced real-time K8s applications |
 
+---
+
+## 🌐 Learning Hub
+
+<div align="center">
+  <!-- Replace the src link below with the link to your Learning Hub banner image -->
+  <img src="YOUR_LEARNING_HUB_BANNER_URL.png" alt="Learning Hub Banner" width="100%">
+  <br><br>
+</div>
+
+| Resource | Description |
+|----------|-------------|
+| [📚 Docs Portal](#) | 900+ curated learning materials |
+| [💻 Projects Hub](#) | Real-world hands-on projects |
+| [🎓 K8s Learning](#) | Kubernetes from scratch → CKA |
+| [🐳 Docker to Kubernetes](#) | Complete containerization journey |
+| [🤖 MLOps Generator](#) | MLOps project scaffolding |
+| [⚙️ DevOps Generator](#) | DevOps project scaffolding |
+| [☁️ AWS Infra Generator](#) | AWS infra templates & configs |
+| [📊 Monitoring in a Box](#) | Prometheus · Grafana · Loki |
+| [✨ Awesome DevOps UI](#) | UI-based tools for DevOps & Cloud |
+| [📦 Repos Central](#) | Scripts, IaC & prep content |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <p>🌟 <b>5,000+</b> Stars · 🍴 <b>1,000+</b> Forks · 👨‍💻 <b>50+</b> Contributors · 📚 <b>900+</b> Resources</p>
+  <p><b>Like my work? Support it.</b></p>
+</div>
