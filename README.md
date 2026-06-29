@@ -82,7 +82,10 @@
       <td><a href="#">DevOps Real-Time Projects</a></td>
       <td>Real-world projects, beginner → advanced</td>
     </tr>
-    <!-- Add more rows here -->
+    <tr>
+     <td><a href="https://gumpiliranjith.github.io/GITPAGES_dep/">DEPLOYMENT</a></td>
+      <td>Using Git-pages to deployment</td>
+    </tr>
   </tbody>
 </table>
 
