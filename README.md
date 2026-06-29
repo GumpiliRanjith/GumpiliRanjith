@@ -67,7 +67,7 @@
 </div>
 
 ### 🔧 DevOps & Infrastructure
-<table align="center>
+<table align="center">
   <thead>
     <tr>
       <th colspan="2" align="center">BEGINNER</th>
@@ -85,7 +85,9 @@
     <!-- Add more rows here -->
   </tbody>
 </table>
+
 <br>
+
 <table align="center">
   <thead>
     <tr>
