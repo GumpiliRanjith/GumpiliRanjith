@@ -135,7 +135,6 @@
 | [☁️ AWS Infra Generator](#) | AWS infra templates & configs |
 | [📊 Monitoring in a Box](#) | Prometheus · Grafana · Loki |
 | [✨ Awesome DevOps UI](#) | UI-based tools for DevOps & Cloud |
-| [📦 Repos Central](#) | Scripts, IaC & prep content |
 
 ---
 
