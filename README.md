@@ -130,7 +130,6 @@
 | [💻 Projects Hub](#) | Real-world hands-on projects |
 | [🎓 K8s Learning](#) | Kubernetes from scratch → CKA |
 | [🐳 Docker to Kubernetes](#) | Complete containerization journey |
-| [🤖 MLOps Generator](#) | MLOps project scaffolding |
 | [⚙️ DevOps Generator](#) | DevOps project scaffolding |
 | [☁️ AWS Infra Generator](#) | AWS infra templates & configs |
 | [📊 Monitoring in a Box](#) | Prometheus · Grafana · Loki |
