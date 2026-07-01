@@ -7,7 +7,7 @@
 
   <h1>R A N J I T H</h1>
   
-  <p><b>Development Platform, Automation & MLOps Enthusiast</b></p>
+  <p><b>Development Platform, Devops Enthusiast</b></p>
   
   <p>
     <code>DevOps</code> · <code>MLOps</code> · <code>IDP</code> · <code>AI Infrastructure</code> · <code>Platform Engineering</code>
